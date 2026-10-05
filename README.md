@@ -1,5 +1,7 @@
 # Attuario-Ai-
 
+> 🚧 **Stato**: Work in Progress — pacchetto ML attuariale (roadmap, test, CI); sviluppo in pausa, riprenderà.
+
 [![Lint & Style Check](https://github.com/pietroscik/Attuario-Ai-/actions/workflows/lint.yml/badge.svg)](https://github.com/pietroscik/Attuario-Ai-/actions/workflows/lint.yml)
 [![Tests](https://github.com/pietroscik/Attuario-Ai-/actions/workflows/tests.yml/badge.svg)](https://github.com/pietroscik/Attuario-Ai-/actions/workflows/tests.yml)
 [![Domain Analysis](https://github.com/pietroscik/Attuario-Ai-/actions/workflows/analysis.yml/badge.svg)](https://github.com/pietroscik/Attuario-Ai-/actions/workflows/analysis.yml)
